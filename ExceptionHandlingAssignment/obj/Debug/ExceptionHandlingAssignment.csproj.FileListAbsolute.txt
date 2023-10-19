@@ -1,0 +1,10 @@
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\UserExceptionBusinessLogic.dll
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\UserExceptionBusinessLogic.pdb
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CopyComplete
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb

@@ -1,0 +1,6 @@
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\bin\Debug\UserExceptionBusinessLogic.dll
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\bin\Debug\UserExceptionBusinessLogic.pdb
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\obj\Debug\UserExceptionBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\obj\Debug\UserExceptionBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\obj\Debug\UserExceptionBusinessLogic.dll
+C:\Users\shashant\source\repos\ExceptionHandlingAssignment\UserExceptionBusinessLogic\obj\Debug\UserExceptionBusinessLogic.pdb
