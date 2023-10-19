@@ -1,0 +1,7 @@
+D:\Training\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
+D:\Training\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
+D:\Training\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
+D:\Training\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.AssemblyReference.cache
+D:\Training\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
+D:\Training\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
+D:\Training\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb
