@@ -1,0 +1,2 @@
+D:\Training\Phase1Section4.29\Phase1Section4.29\obj\Debug\Phase1Section4.29.csproj.AssemblyReference.cache
+D:\Training\Phase1Section4.29\Phase1Section4.29\obj\Debug\Phase1Section4.29.csproj.CoreCompileInputs.cache
