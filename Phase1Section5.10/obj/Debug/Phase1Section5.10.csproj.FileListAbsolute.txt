@@ -1,0 +1,7 @@
+D:\Training\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.exe.config
+D:\Training\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.exe
+D:\Training\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.pdb
+D:\Training\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.csproj.AssemblyReference.cache
+D:\Training\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.csproj.CoreCompileInputs.cache
+D:\Training\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.exe
+D:\Training\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.pdb
